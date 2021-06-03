@@ -5,8 +5,8 @@
   <a href="README.md">Vietnamese</a>
 </p>
 
-- Connection diagram: [Click Here](media/images/image1.png)
-- Prototype: [Click Here](media/images/image2.jpg)
+- Connection diagram: [Click Here](Media/Images/Image1.png)
+- Prototype: [Click Here](Media/Images/Image2.jpg)
 - Code: [Click Here](ObstacleAvoidCar/ObstacleAvoidCar.ino)
 
 ## Requirements

@@ -5,8 +5,8 @@
   <a href="README_EN.md">English</a>
 </p>
 
-- Sơ đồ kết nối mạch: [Click Here](media/images/image1.png)
-- Mô hình xe: [Click Here](media/images/image2.jpg)
+- Sơ đồ kết nối mạch: [Click Here](Media/Images/Image1.png)
+- Mô hình xe: [Click Here](Media/Images/Image2.jpg)
 - Code: [Click Here](ObstacleAvoidCar/ObstacleAvoidCar.ino)
 
 ## Requirements
