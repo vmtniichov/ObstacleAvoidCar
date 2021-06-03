@@ -111,8 +111,9 @@ void loop(){
   
   //Xử lý khi khoảng cách nhận từ sonar dưới khoảng cách giới hạn có vật cản
   while(getDistance() != 0 && getDistance() <= limit_distance){
-      
-      while(getDistance() < 17 ){
+    
+      //Khoảng cách quá gần sẽ lùi
+      while(getDistance() < 8 ){
         backward(192);
       }
       
@@ -131,7 +132,7 @@ void loop(){
         }
       }
   }
-      //Khoảng cách quá gần sẽ lùi
+      
       
   //Xử lý khi không nhận được tín hiệu từ sonar
   while(getDistance() == 0){
