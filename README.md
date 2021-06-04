@@ -10,8 +10,8 @@
 - Code: [Click Here](ObstacleAvoidCar/ObstacleAvoidCar.ino)
 
 ## Demo:
-- Demo 1: [Watch](ObstacleAvoidCar/Media/Videos/Video_Demo_1.mp4)
-- Demo 2: [Watch](ObstacleAvoidCar/Media/Videos/Video_Demo_2.mp4)
+- Demo 1: [Watch](Media/Videos/Video_Demo_1.mp4)
+- Demo 2: [Watch](Media/Videos/Video_Demo_2.mp4)
 
 ## Requirements
 - Thiết Bị:
