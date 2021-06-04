@@ -9,6 +9,10 @@
 - Mô hình xe: [Click Here](Media/Images/Image2.jpg)
 - Code: [Click Here](ObstacleAvoidCar/ObstacleAvoidCar.ino)
 
+## Demo:
+- Demo 1: [Watch](ObstacleAvoidCar/Media/Videos/Video_Demo_1.mp4)
+- Demo 2: [Watch](ObstacleAvoidCar/Media/Videos/Video_Demo_2.mp4)
+
 ## Requirements
 - Thiết Bị:
   - 1 Arduino UNO R3
