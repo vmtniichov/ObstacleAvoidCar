@@ -113,7 +113,7 @@ void loop(){
   while(getDistance() != 0 && getDistance() <= limit_distance){
     
       //Khoảng cách quá gần sẽ lùi
-      while(getDistance() < 8 ){
+      while(getDistance() != 0 && getDistance() < 8){
         backward(192);
       }
       
